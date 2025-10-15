@@ -72,7 +72,7 @@ conn.close()
 server_socket.close()
 ```
 ## OUPUT
-<img width="1490" height="942" alt="image" src="https://github.com/user-attachments/assets/b26da64f-a03a-40f5-aec6-5207cc6c5387" />
+<img width="1485" height="981" alt="image" src="https://github.com/user-attachments/assets/166527ba-3f98-4018-b137-f7e945682672" />
 
 
 ## RESULT
